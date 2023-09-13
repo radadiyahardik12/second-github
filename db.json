@@ -1,5 +1,4 @@
-{
-        "passdata":[
+  [
             {
                 "id":1,
                 "name":"monky",
@@ -21,4 +20,3 @@
                 "email":"gog@gmail.com"
             }
         ]
-}
